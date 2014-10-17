@@ -1,4 +1,4 @@
-Cocos2d-JS-v3-Tutorial-68---LabelAtlas
+Cocos2d-JS v3 Tutorial 68 - LabelAtlas
 ======================================
 
-Code for the following video tutorial 
+Code for the following video tutorial http://youtu.be/sSRpkhWdBug
